@@ -2,7 +2,7 @@
 layout: post
 title: Animation Principles for the Web
 description: How Disney's 12 Principles of Animation can be applied to web designs
-categories: [animation, tips, animations, transitions, apple watch]
+categories: [animation, tips, animations, transitions]
 customCSS: principles.css
 imageURL: /assets/images/posts/principles/principles.png
 home_image: /assets/images/posts/principles/principles.png
@@ -10,6 +10,7 @@ tweet_text: Applying Disney's 12 Principles to web animation
 custom_header: posts/principles.html
 demo_url: http://codepen.io/collection/AxKOdY/
 published: true
+source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-03-21-principles.md
 languages:
  - title: 中国 (Chinese)
    url: /cn/principles/
@@ -235,8 +236,3 @@ Carefully crafted animations on the web can create appeal. Companies such as Str
 Making use of the other principles is a good way to improve animations. Animations that maintain the physical weight of objects, anticipate changes, make use of secondary actions and good timing will be valuable and helpful additions to your content.
 
 When you have the chance to add some animation to your pages, making use of one or more of these principles will make them more effective and appealing.
-
-*Update: Many thanks [Ethon Lau](https://twitter.com/ethonlau) to for translating this article [into Chinese](http://www.jianshu.com/p/1858a8733ba3)!*
-
-*If you'd like to translate this or any article into another language, [let me know](mailto:hello@cssanimation.rocks).*
-

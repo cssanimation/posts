@@ -8,7 +8,8 @@ imageURL: /assets/images/posts/zelda/zelda.png
 home_image: /assets/images/posts/zelda/zelda.png
 tweet_text: Recreate the classic Zelda intro in CSS
 custom_header: posts/zelda.html
-published: false
+source: https://raw.githubusercontent.com/cssanimation/posts/master/2013-04-20-zelda.md
+published: true
 ---
 
 The Zelda games have always been close to my heart. In this post, we'll try to recreate the iconic introduction to what might be the best game ever, A Link to the Past.
