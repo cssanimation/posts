@@ -10,7 +10,10 @@ imageURL: /assets/images/posts/list_items/list_items.png
 home_image: /assets/images/posts/list_items/home.png
 tweet_text: Animating List Items
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-02-12-list-items.md
-published: true
+languages:
+ - title: Türk (Turkish)
+   url: /tr/list-items/
+   iso: tr
 ---
 
 When parts of a web page change, adding some animation is a good way to help your viewers understand what's going on. Animations can announce the arrival of new content, or draw attention to content that's in the process of being removed. In this article we'll look at how this can be used to help introduce new content, by showing and hiding items in a list.

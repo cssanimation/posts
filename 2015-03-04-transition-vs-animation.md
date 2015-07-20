@@ -13,6 +13,7 @@ source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-03-04-t
 languages:
  - title: 中国 (Chinese)
    url: /cn/transition-vs-animation/
+   iso: cn
 ---
 
 When animating on the web, do you use a transition or an animation? There are times when you would want to choose one over the other. Let's discuss the differences.

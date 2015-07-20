@@ -14,10 +14,13 @@ source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-03-21-p
 languages:
  - title: 中国 (Chinese)
    url: /cn/principles/
+   iso: cn
  - title: 日本人 (Japanese)
    url: /jp/principles/
+   iso: jp
  - title: Polski (Polish)
    url: /pl/principles/
+   iso: pl
 ---
 
 As front-end designers and developers, we use CSS to style, position and create great looking sites. We often use CSS to add movement to pages in the form of transitions or even animations, but we don't usually go much beyond that.
