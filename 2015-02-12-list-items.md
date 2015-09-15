@@ -11,7 +11,7 @@ home_image: /assets/images/posts/list_items/home.png
 tweet_text: Animating List Items
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-02-12-list-items.md
 languages:
- - title: Türk (Turkish)
+ - title: Türkçe (Turkish)
    url: /tr/list-items/
    iso: tr
 ---
@@ -46,7 +46,7 @@ To get started we'll use a pre-filled list and a button to add new items to the 
 <button id="add-to-list">Add a list item</button>
 ```
 
-A few things to note. Firstly we have two IDs in the HTML. Generally we don't use IDs for styling, as they can introduce problems with their specificity. However they're useful when using JavaScript. 
+A few things to note. Firstly we have two IDs in the HTML. Generally we don't use IDs for styling, as they can introduce problems with their specificity. However they're useful when using JavaScript.
 
 The initial items have the class "show", as this is a class we'll use later to add the animation effect.
 
@@ -92,7 +92,7 @@ li.show {
   height: 2em;
   margin: 2px 0;
 }
-``` 
+```
 
 In these styles we're setting up the `li` elements to look like rectangles, without the bullet points and giving them a `height` of 0, a `margin` of 0 and set `overflow` to hidden. This is so that they will appear invisible until we apply a `show` class.
 

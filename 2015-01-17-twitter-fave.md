@@ -8,6 +8,11 @@ customCSS: twitter_fave.css
 imageURL: /assets/images/posts/steps/twitter_fave_rectangle.png
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-01-17-twitter-fave.md
 home_image: /assets/images/posts/steps/home.png
+languages:
+ - title: Deutsch (German)
+   url: /de/twitter-fave/
+   iso: de
+   postTitle: Twitter's "fave" Animation
 ---
 
 Twitter recently updated the design of their "fave" (also known as "fav") button, introducing a new animation. Rather than rely on CSS transitions, the animation makes use of a series of images. Here's how to recreate the animation using the CSS animation `steps` timing function.

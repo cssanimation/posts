@@ -10,10 +10,14 @@ home_image: /assets/images/posts/sheen/home.png
 tweet_text: Shiny buttons with CSS
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-02-03-pseudo-elements.md
 languages:
+ - title: Deutsch (German)
+   url: /de/pseudo-elements/
+   iso: de
+   postTitle: Animation von Pseudo-Elementen
  - title: Français (French)
    url: /fr/pseudo-elements/
    iso: fr
- - title: Türk (Turkish)
+ - title: Türkçe (Turkish)
    url: /tr/pseudo-elements/
    iso: tr
 ---
