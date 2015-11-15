@@ -9,15 +9,29 @@ imageURL: /assets/images/posts/steps/twitter_fave_rectangle.png
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-01-17-twitter-fave.md
 home_image: /assets/images/posts/steps/home.png
 languages:
- - title: Deutsch (German)
-   url: /de/twitter-fave/
-   iso: de
-   postTitle: Twitter's "fave" Animation
+  - title: "العربية (Arabic)"
+    url: /ar/twitter-fave/
+    iso: ar
+    postTitle: "حركة ايقونة التفضيل على تويتر"
+  - title: Deutsch (German)
+    url: /de/twitter-fave/
+    iso: de
+    postTitle: Twitter's "fave" Animation
+  - title: Polski (Polish)
+    url: /pl/twitter-fave/
+    iso: pl
+    postTitle: Twitterowa animacja &quot;dodaj do ulubionych&quot;
 ---
 
 Twitter recently updated the design of their "fave" (also known as "fav") button, introducing a new animation. Rather than rely on CSS transitions, the animation makes use of a series of images. Here's how to recreate the animation using the CSS animation `steps` timing function.
 
-<!--more-->
+### Update: Heart
+
+The following technique can also be used with the new "Heart" animation, as it's handled in a similar way:
+
+<section class="fave demo-container tap-to-activate heart"></section>
+
+See the [live example on CodePen](http://codepen.io/donovanh/pen/dYqxNb).
 
 ## Illusion of movement
 

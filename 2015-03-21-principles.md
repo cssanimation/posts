@@ -15,12 +15,15 @@ languages:
  - title: 中国 (Chinese)
    url: /cn/principles/
    iso: cn
- - title: 日本人 (Japanese)
+   postTitle: "[译文]网页动画的十二原则"
+ - title: 日本語 (Japanese)
    url: /jp/principles/
    iso: jp
+   postTitle: "ディズニー社に学ぶ！HTML/CSSで12個のアニメーション基本原則を完全再現！"
  - title: Polski (Polish)
    url: /pl/principles/
    iso: pl
+   postTitle: Reguły animacji w sieci
 ---
 
 As front-end designers and developers, we use CSS to style, position and create great looking sites. We often use CSS to add movement to pages in the form of transitions or even animations, but we don't usually go much beyond that.

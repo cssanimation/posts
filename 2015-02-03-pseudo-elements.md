@@ -10,16 +10,22 @@ home_image: /assets/images/posts/sheen/home.png
 tweet_text: Shiny buttons with CSS
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-02-03-pseudo-elements.md
 languages:
+ - title: Français (French)
+   url: /fr/pseudo-elements/
+   iso: fr
+   postTitle: Animer des pseudo-éléments
  - title: Deutsch (German)
    url: /de/pseudo-elements/
    iso: de
    postTitle: Animation von Pseudo-Elementen
- - title: Français (French)
-   url: /fr/pseudo-elements/
-   iso: fr
+ - title: Polski (Polish)
+   url: /pl/pseudo-elements/
+   iso: pl
+   postTitle: Animowanie pseudo element&oacute;w
  - title: Türkçe (Turkish)
    url: /tr/pseudo-elements/
    iso: tr
+   postTitle: Pseudo-element'ler ile animasyon
 ---
 
 Pseudo-elements are like getting extra DOM elements for free. They allow us to add extra content, decoration and more to our pages without adding extra HTML, and they can be animated. In this post we'll use a pseudo-element to add a little visual flair to a button.
