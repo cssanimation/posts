@@ -19,7 +19,7 @@ languages:
 
 When parts of a web page change, adding some animation is a good way to help your viewers understand what's going on. Animations can announce the arrival of new content, or draw attention to content that's in the process of being removed. In this article we'll look at how this can be used to help introduce new content, by showing and hiding items in a list.
 
-<!--more-->
+/pl/
 
 <section class="add-to-list swing-side demo-container">
   <ul>

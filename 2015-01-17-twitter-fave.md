@@ -17,10 +17,18 @@ languages:
     url: /de/twitter-fave/
     iso: de
     postTitle: Twitter's "fave" Animation
+  - title: Nederlands (Dutch)
+    url: /nl/twitter-fave/
+    iso: nl
+    postTitle: "De &quot;fave&quot; animatie van Twitter"
   - title: Polski (Polish)
     url: /pl/twitter-fave/
     iso: pl
     postTitle: Twitterowa animacja &quot;dodaj do ulubionych&quot;
+  - title: Türkçe (Turkish)
+    url: /tr/twitter-fave/
+    iso: tr
+    postTitle: Twitter'daki &quot;fav&quot; animasyonu
 ---
 
 Twitter recently updated the design of their "fave" (also known as "fav") button, introducing a new animation. Rather than rely on CSS transitions, the animation makes use of a series of images. Here's how to recreate the animation using the CSS animation `steps` timing function.
@@ -88,7 +96,7 @@ The `hover` state is added, which is when we specify that the background positio
 }
 {% endhighlight %}
 
-Note the second rule, specifying the `transition`. In this case we want to transition the background property, run the transition for a duration of two seconds, make use of the `steps` timing function. The `steps` part includes the value `55`, as there are 55 frames in the animation.
+Note the second rule, specifying the `transition`. In this case we want to transition the background property, run the transition for a duration of one second, make use of the `steps` timing function. The `steps` part includes the value `55`, as there are 55 frames in the animation.
 
 The effect is that when we hover over the element, it jumps through the transition in 55 equal steps.
 

@@ -30,7 +30,7 @@ As front-end designers and developers, we use CSS to style, position and create 
 
 Animation can be a powerful tool to help our visitors and customers understand and benefit from our designs. There are principles we can apply to our work to make the most of this power.
 
-<!--more-->
+/pl/
 
 Long established as fundamental working practices at Disney, the [12 Principles of Animation](http://en.wikipedia.org/wiki/12_basic_principles_of_animation) were published as "The Illusion of Life: Disney Animation" in 1981. These principles describe how animation can be used to immerse viewers in a believable   world.
 
@@ -49,7 +49,7 @@ This is the notion that an object has a physical mass, and when it moves this ma
 
 This is most useful when creating objects that we want to be considered physical, such as people, clocks or bouncing balls.
 
-It's possible to ignore this rule when working with elements of a web page. DOM elements aren't necessarily associated with physical objects, and can grow or shrink on screen as needed. For example, a button could grow and morph into an information box, or error messages can appear and disappear. 
+It's possible to ignore this rule when working with elements of a web page. DOM elements aren't necessarily associated with physical objects, and can grow or shrink on screen as needed. For example, a button could grow and morph into an information box, or error messages can appear and disappear.
 
 Still, the squash and stretch techniques can be used to give an object the feeling of physical mass. Even small changes in shape can create subtle but eye-catching effects.
 

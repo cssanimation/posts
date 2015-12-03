@@ -23,7 +23,7 @@ languages:
 
 When animating on the web, do you use a transition or an animation? There are times when you would want to choose one over the other. Let's discuss the differences.
 
-<!--more-->
+/pl/
 
 ## What are Transitions?
 
