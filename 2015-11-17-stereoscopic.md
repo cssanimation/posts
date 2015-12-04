@@ -5,8 +5,8 @@ bodyClass: shorter
 demo_url: https://cssanimation.rocks/demo/stereoscopic/
 description: Cross your eyes to see a 3D effect created using CSS
 categories: [3d, css]
-imageURL: /assets/images/posts/stereoscopic/home.png
-home_image: /assets/images/posts/stereoscopic/home.jpg
+imageURL: /images/posts/stereoscopic/home.png
+home_image: /images/posts/stereoscopic/home.jpg
 tweet_text: Cross your eyes to see a 3D effect created using CSS
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-11-17-stereoscopic.md
 ---
@@ -20,7 +20,7 @@ See the [stereoscopic cube demo](https://cssanimation.rocks/demo/stereoscopic).
 
 There are many techniques used to try to convey a 3D image from a screen. One of the oldest is the use of red and green (or blue) coloured film, which when watched through red/green glasses produces a 3D effect.
 
-![Old-style 3D effect](/assets/images/posts/stereoscopic/old-movie.jpg)
+![Old-style 3D effect](/images/posts/stereoscopic/old-movie.jpg)
 
 [Simurai](http://twitter.com/simurai) has put some work into this and created a nice [CSS3D](http://simurai.com/post/802968365/css3d-css3-3d-text) plugin to achieve it.
 
@@ -30,13 +30,13 @@ The downside to this is that the film can only be monochrome, as the colours are
 
 A second approach to presenting 3D is to make use of an ability some of us have to cross our eyes. The idea is to present two scenes side by side, each presented from a slightly different angle. If the viewer can cross their eyes, the two images combine to create a 3D effect.
 
-![How two images combine to form a 3D version](/assets/images/posts/stereoscopic/example.png)
+![How two images combine to form a 3D version](/images/posts/stereoscopic/example.png)
 
 While this may not work for everyone, it's great when it works and doesn't limit the number of colours a scene can include. Some [photographs show this effect](http://www.flickr.com/photos/ytf/5557882900/) nicely.
 
 To give it a go, try looking at the following image from about two feet away from your monitor. Gently cross your eyes until the two images merge together, and if you get them to line up just right, it should look like it's 3D.
 
-![The finished stereoscopic 3D scene with just CSS](/assets/images/posts/stereoscopic/stereoscopic-hop.ie.png)
+![The finished stereoscopic 3D scene with just CSS](/images/posts/stereoscopic/stereoscopic-hop.ie.png)
 
 This double-image technique is most notably used in the new [Oculus Rift headset](http://www.oculusvr.com/). While I don't have one to test this against, I believe it's possible to display HTML pages within the headset, so some form of this technique might be useful there.
 
@@ -199,7 +199,7 @@ The left stage is given a perspective approximately two thirds along the X-axis,
 
 The end result should be two almost identical 3D CSS scenes, with slightly different perspectives.
 
-![The finished stereoscopic 3D scene with just CSS](/assets/images/posts/stereoscopic/stereoscopic-hop.ie.png)
+![The finished stereoscopic 3D scene with just CSS](/images/posts/stereoscopic/stereoscopic-hop.ie.png)
 
 You can see the [animated stereoscopic version here](https://cssanimation.rocks/demo/stereoscopic).
 
@@ -210,13 +210,13 @@ Note: Some of these larger scenes can be more difficult to see as they require y
 
 ### Portal Orientation Video
 
-![Portal CSS with the stereoscopic treatment](/assets/images/posts/stereoscopic/portal.png)
+![Portal CSS with the stereoscopic treatment](/images/posts/stereoscopic/portal.png)
 
 See the [animated version here](https://cssanimation.rocks/demo/stereoscopic/portal.html). You can also [read how the it was made](/portal).
 
 ### Zelda Intro Screen
 
-![Zelda intro screen with the stereoscopic treatment](/assets/images/posts/stereoscopic/zelda.png)
+![Zelda intro screen with the stereoscopic treatment](/images/posts/stereoscopic/zelda.png)
 
 See the [animated version here](https://cssanimation.rocks/demo/stereoscopic/zelda.html). You can also [read how the it was made](/zelda).
 

@@ -5,8 +5,8 @@ title: Animating pseudo-elements
 description: Pseudo-elements give you two extra HTML elements for free! Here's how to animate them on hover. Use them wisely.
 categories: [animation, tips, animations, pseudo-elements]
 customCSS: shiny_button.css
-imageURL: /assets/images/posts/sheen/sheen.gif
-home_image: /assets/images/posts/sheen/home.png
+imageURL: /images/posts/sheen/sheen.gif
+home_image: /images/posts/sheen/home.png
 tweet_text: Shiny buttons with CSS
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-02-03-pseudo-elements.md
 languages:
@@ -22,6 +22,10 @@ languages:
    url: /pl/pseudo-elements/
    iso: pl
    postTitle: Animowanie pseudo element&oacute;w
+ - title: Português (Portuguese)
+   url: /pt/pseudo-elements/
+   iso: pt
+   postTitle: Animando pseudoelementos
  - title: Türkçe (Turkish)
    url: /tr/pseudo-elements/
    iso: tr

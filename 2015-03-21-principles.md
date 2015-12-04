@@ -4,8 +4,8 @@ title: Animation Principles for the Web
 description: How Disney's 12 Principles of Animation can be applied to web designs
 categories: [animation, tips, animations, transitions]
 customCSS: principles.css
-imageURL: /assets/images/posts/principles/principles.png
-home_image: /assets/images/posts/principles/principles.png
+imageURL: /images/posts/principles/principles.png
+home_image: /images/posts/principles/principles.png
 tweet_text: Applying Disney's 12 Principles to web animation
 custom_header: posts/principles.html
 demo_url: http://codepen.io/collection/AxKOdY/

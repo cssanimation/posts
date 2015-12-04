@@ -5,9 +5,9 @@ title: Twitter's "fave" animation
 description: Find out how Twitter's fancy new 'fave' animation works, using the CSS steps() timing function.
 categories: [animation, tips, transition, steps]
 customCSS: twitter_fave.css
-imageURL: /assets/images/posts/steps/twitter_fave_rectangle.png
+imageURL: /images/posts/steps/twitter_fave_rectangle.png
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-01-17-twitter-fave.md
-home_image: /assets/images/posts/steps/home.png
+home_image: /images/posts/steps/home.png
 languages:
   - title: "العربية (Arabic)"
     url: /ar/twitter-fave/
@@ -17,6 +17,10 @@ languages:
     url: /de/twitter-fave/
     iso: de
     postTitle: Twitter's "fave" Animation
+  - title: 日本語 (Japanese)
+    url: /jp/twitter-fave/
+    iso: jp
+    postTitle: Twitter の「お気に入り」アニメーション
   - title: Nederlands (Dutch)
     url: /nl/twitter-fave/
     iso: nl
@@ -53,17 +57,17 @@ Hover the star to see the animation:
 
 In this example we begin by creating a series of images that will make up the animation. In this case we are using part of the image set from Twitter's fave icon animation:
 
-<img src="/assets/images/posts/steps/twitter_fave_rectangle.png" alt="Frames from Twitter's fave icon animation" style="max-width:256px">
+<img src="/images/posts/steps/twitter_fave_rectangle.png" alt="Frames from Twitter's fave icon animation" style="max-width:256px">
 
-To animate these frames, we'll need to put them into a single line. [This file](/assets/images/posts/steps/twitter_fave.png) has them in a single row, which means we can transition from the first frame to the last frame by positioning the background:
+To animate these frames, we'll need to put them into a single line. [This file](/images/posts/steps/twitter_fave.png) has them in a single row, which means we can transition from the first frame to the last frame by positioning the background:
 
-<img src="/assets/images/posts/steps/frames.png" alt="How the background images are positioned within an element" style="max-width:514px">
+<img src="/images/posts/steps/frames.png" alt="How the background images are positioned within an element" style="max-width:514px">
 
 ### Steps() timing function
 
 With most timing functions such as ease or cubic-bezier, the transition animates smoothly between the start and end states. The `steps` timing function is different. Instead of a smooth transition, it divides up the transition into a number of steps and moves sharply between each step.
 
-<img src="/assets/images/posts/steps/steps.png" alt="How the steps function is illustrated on a graph, as a series of discrete steps" style="max-width:362px">
+<img src="/images/posts/steps/steps.png" alt="How the steps function is illustrated on a graph, as a series of discrete steps" style="max-width:362px">
 
 
 To begin we set up the HTML:
@@ -76,7 +80,7 @@ To begin we set up the HTML:
 
 With that in place we can add a little styling and position the background image:
 
-![Image sprite for the animation](/assets/images/posts/steps/twitter_fave.png)
+![Image sprite for the animation](/images/posts/steps/twitter_fave.png)
 
 {% highlight css %}
 .fave {

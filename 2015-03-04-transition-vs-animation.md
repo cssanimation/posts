@@ -5,8 +5,8 @@ description: A description of the differences between transitions and animations
 categories: [animation, tips, animations, transitions]
 customCSS: animations_transitions.css
 extraJS: [vendor/moment.min.js,vendor/moment-timezone.min.js, vendor/moment-timezone-with-data-2010-2020.min.js, custom/list_items.js, custom/clocks.js]
-imageURL: /assets/images/posts/transitions-animations/transitions-animations.gif
-home_image: /assets/images/posts/transitions-animations/transitions-animations.png
+imageURL: /images/posts/transitions-animations/transitions-animations.gif
+home_image: /images/posts/transitions-animations/transitions-animations.png
 tweet_text: When should you use a transition, and when an animation?
 custom_header: posts/transitions-animations.html
 source: https://raw.githubusercontent.com/cssanimation/posts/master/2015-03-04-transition-vs-animation.md
